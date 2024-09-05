@@ -14,3 +14,21 @@ button{
     background-color: brown;
     font-family: "Martian Mono", system-ui;
 }
+
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+
+}
+
+main{
+    text-align:center
+    /* max-width: 90% */
+}
+img{
+    max-width: 80%;
+}
